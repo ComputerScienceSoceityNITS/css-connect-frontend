@@ -40,7 +40,7 @@ The frontend GitHub Repository for CSS Connect, managed by Dev-Wing, CSS, NITS
 <p>
     <img src="https://img.shields.io/badge/next.js-7c3aed?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js official Website"/>
     <img src="https://img.shields.io/badge/typescript-7c3aed?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript official Website"/>
-    <img src="https://img.shields.io/badge/css3-7c3aed?style=for-the-badge&logo=css3&logoColor=white" alt="nodejs official Website"/>
+    <img src="https://img.shields.io/badge/sass-7c3aed?style=for-the-badge&logo=sass&logoColor=white" alt="sass official Website"/>
 </p>
 
 ## Design
