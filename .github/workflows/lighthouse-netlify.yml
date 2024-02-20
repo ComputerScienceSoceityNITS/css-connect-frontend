@@ -17,3 +17,4 @@ jobs:
           urls: |
             ${{ steps.netlify.outputs.url }}
           uploadArtifacts: true
+          configPath: '.github/lighthouse/lighthouserc-assertions.json'
