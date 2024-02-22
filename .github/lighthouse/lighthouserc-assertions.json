@@ -7,6 +7,7 @@
       "preset": "lighthouse:recommended",
       "assertions": {
         "first-contentful-paint": ["warn", { "minScore": 0.6 }],
+        "largest-contentful-paint": ["warn", { "minScore": 0.2 }],
         "content-width": ["warn", { "minScore": 0 }],
         "render-blocking-resources": ["warn", { "numericValue": 0 }],
         "uses-rel-preconnect": ["warn", { "numericValue": 0 }],
